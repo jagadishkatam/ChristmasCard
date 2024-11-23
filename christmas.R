@@ -1,5 +1,4 @@
-library(tidyverse)
-library(gganimate)
+
 
 # Coordinates of the vertices of the triangle
 x <- c(1, 4, 2.5)

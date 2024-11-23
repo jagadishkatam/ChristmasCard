@@ -2,4 +2,4 @@
 
 This project creates a festive Christmas-themed visualization using R. The plot showcases a Christmas tree, ornaments, snowflakes, and a greeting message with detailed styling.
 
-![](christmas_card.png)
+<img src="images/christmas_card.png" alt="Christmas Card" width="600"/>
