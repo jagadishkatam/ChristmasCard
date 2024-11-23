@@ -208,8 +208,8 @@ ggplot(triangle_data, aes(x, y)) +
 ggsave(
   "christmas_card.png",
   plot = last_plot(),
-  width = 6,
-  height = 6,
+  width = 14,
+  height = 10,
   units = "in",
   dpi = 300
 )
